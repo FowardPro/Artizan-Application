@@ -1,0 +1,44 @@
+{
+  "name": "flexyvue3ts",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 5050",
+    "typecheck": "vue-tsc --noEmit"
+  },
+  "dependencies": {
+    "apexcharts": "^3.35.0",
+    "axios": "^1.6.8",
+    "date-fns": "^3.6.0",
+    "firebase": "^10.12.0",
+    "moment": "^2.30.1",
+    "sweetalert2": "^11.11.0",
+    "vue": "^3.2.31",
+    "vue-instantsearch": "^4.3.3",
+    "vue-router": "^4.0.12",
+    "vue3-apexcharts": "^1.4.1",
+    "vuetify": "^3.0.0-beta.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@mdi/font": "^6.5.95",
+    "@rushstack/eslint-patch": "^1.1.0",
+    "@types/node": "^16.11.25",
+    "@vitejs/plugin-vue": "^2.2.2",
+    "@vue/eslint-config-prettier": "^7.1.0",
+    "@vue/eslint-config-typescript": "^10.0.0",
+    "@vue/tsconfig": "^0.1.3",
+    "@vuetify/vite-plugin": "^1.0.0-alpha.3",
+    "eslint": "^9.3.0",
+    "eslint-plugin-vue": "^9.26.0",
+    "prettier": "^2.5.1",
+    "sass": "^1.49.9",
+    "sass-loader": "^10.0.0",
+    "typescript": "~4.5.5",
+    "vite": "^2.9.1",
+    "vue-cli-plugin-vuetify": "~2.4.8",
+    "vue-tsc": "^0.31.4",
+    "vuetify-loader": "^2.0.0-alpha.9"
+  }
+}
